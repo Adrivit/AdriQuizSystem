@@ -1,0 +1,29 @@
+<html>
+    <body>
+        <link rel="stylesheet" href="../CSS/quizRules.css">
+        <img src="../Images/Website logo.png">
+        <span id="headings">Quiz System by Adrivit Mondal</span><br>
+        <div class="container">
+            <span id="rules">Rules and regulations for the Quiz. Plesse read it carefully. </span><br>
+            <ol>
+                <li>Quiz will contain total 20 questions.</li>
+                <li>One point will be awarded for each correct answer.</li>
+                <li>Each question has 4 options.</li>
+                <li>Do not refresh the page.</li>
+                <li>You can click an option for a single time. So do it with carefully.</li>
+                <li>There is no previous button available.</li>
+                <li>You must select an answer before going to next question.</li>
+                <li>You can not go to next question without selecting an option</li>
+                <li>Final score will be shown after the submission of the quiz.</li>  
+            </ol> 
+            <div id="agreement">
+                <div id="alert">
+                    <input type="checkbox" id="i-agree" name="agreement">
+                    <label for="agreement">I Agree</label>
+                    <button type="submit" id="start-quiz" onclick="validateCheck()">Start Quiz</button>
+                 </div>
+            </div>
+        </div>        
+    </body>
+    <script src="../JavaScript/quizRules.js"></script>
+</html>

@@ -1,0 +1,40 @@
+<html>
+    <body onload="loadFirstQuestion();">
+        <link rel="stylesheet" href="../CSS/quizQuestions.css">
+        <img src="../Images/Website logo.png">
+        <span id="headings">Quiz System by Adrivit Mondal</span><br>
+        <div class="container">
+            <span id="question"></span><br>
+            <form>
+                <span id="plese_read">Please select an option carefully. You have only one chance.</span><br>
+                <div id="options"><input type="radio" id="option1" name="options"  onchange="showAnswer()"></div>
+                <span id="first"></span><br>
+                <div id="options"><input type="radio" id="option2"name="options"  onchange="showAnswer()"></div>
+                <Span id="second"></span><br>
+                <div id="options"><input type="radio" id="option3" name="options" onchange="showAnswer()"></div>
+                <span id="third"></span><br>
+                <div id="options"><input type="radio"  id="option4"name="options" onchange="showAnswer()"></div>
+                <span id="fourth"></span><br>
+            </form> 
+            <div id="answer"></div>
+            <div id="PrevNext">
+                <button type="submit" id="button_next" onclick="nextQuestion(); clearAllRadioBtns();">Next</button>
+                <button type="submit" id="button_finish" onclick="showUserResult();">Finish</button>
+            </div> 
+        </div>
+        <span id="your-result"></span>
+        <div class="container2">
+            <span id="rules">Quiz Analysis</span><br>
+            <table id="result">
+                <tr>
+                    <th id="no">QueNo.</th>
+                    <th id="currect_answer">Correct Answer</th>
+                    <th id="user_answer">User Answer</th>
+                    <th id="marks">Marks Alloted</th>
+                </tr>   
+            </table> 
+            <button type="submit" id="logout" onclick="logout();">Logout</button>
+        </div>   
+        <script src="../JavaScript/quizQuestions.js"></script>
+    </body>
+</html>

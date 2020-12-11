@@ -1,0 +1,165 @@
+body{
+    background-image: linear-gradient(-45deg,rgb(245, 122, 143), rgb(255, 255, 255) , rgb(255, 255, 255), rgb(0, 119, 255));
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom:120px;
+    font-family: Helvetica;
+}
+img{
+    margin-left: 60px;
+    float: left;
+    width: 100px;
+    box-shadow: 0px 7px 20px -5px black;
+    border-radius: 20px;
+
+}
+.container{
+    border: 4px solid rgb(30, 95, 155);
+    width: 60%;
+    height: 250px;
+    margin-left: 21%;
+    margin-top: 5%;
+    border-radius: 6px;
+}
+#headings{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: inline-block;
+    margin-left: 18%;
+    font-weight: bold;
+    margin-top: 30px;
+    font-size:40px;
+}
+#question{
+    padding-top: 10px;
+    padding-left:11px;
+    height: 30px;
+    display: inline-block;
+    color:white;
+    background-color:rgb(30, 95, 155);
+    width: 98.99%;
+    font-size: 20px;
+}
+
+#button_next,#button_finish,#button_prevoius
+{
+    margin-top:10px;
+    width: 90px;
+    height: 30px;
+    color: white;
+    background-color: rgb(58, 158, 58);
+    border-radius:3px;
+    border: none;
+    margin-left: 15px;
+}
+
+#button_finish{
+    display: none;
+}
+
+
+form{
+    margin-top: 10px;
+    margin-left: 10px;
+    height: 87.5px;
+}
+#plese_read{
+    display: block;
+    font-size:20px;
+    margin-bottom: 0px;
+}
+
+#answer{
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: -30px;
+    padding-top:35px;
+    padding-bottom:5px;
+    padding-left: 10px;
+    padding-left: 10px;
+    border-radius: 5px;
+    display:none;
+    font-size:20px;
+}
+
+#PrevNext{
+    padding-top: 10px;
+    background-color: rgb(226, 227, 228);
+    border-radius: 2px;
+    height: 60px;
+    margin-top: 42.5px;
+}
+
+#options{
+    display: inline-block;
+}
+th{
+    
+    font-size: 18px;
+    background: transparent;
+
+}
+.container2{
+    border: 4px solid rgb(30, 95, 155);
+    width: 66%;
+    height: 932px;
+    margin-top: 5%;
+    margin-left: 17%;
+    border-radius: 4px;
+    display: none;
+}
+table{
+    text-align: center;
+}
+#rules{
+    padding-top: 10px;
+    padding-left:12px;
+    height: 30px;
+    display: inline-block;
+    color:white;
+    background-color:rgb(30, 95, 155);
+    width: 99%;
+    font-size: 20px;
+}
+
+#no{
+    width:8%;
+    padding: 10px;
+}
+
+#marks{
+    padding: 10px;
+    width:15%;
+}
+
+td{
+    font-size: 20px;
+    border: none;
+    margin: none;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    padding-left: 6px;
+    padding-right: 6px;
+}
+
+#your-result{
+    display: block;
+    background-color:transparent;
+    font-size: 40px;
+    margin-top: 50px;
+    margin-left: 430px;
+}
+
+#logout
+{
+    font-size:20px;
+    margin-top:40px;
+    width: 200px;
+    height: 50px;
+    color: white;
+    background-color: rgb(58, 158, 58);
+    border-radius:3px;
+    border: none;
+    margin-left: 400px;
+    box-shadow: 0px 7px 20px -5px black;
+    display:none;
+}

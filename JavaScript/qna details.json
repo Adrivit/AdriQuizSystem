@@ -1,0 +1,142 @@
+[
+    {
+        "queno":"1",
+        "que":"Q1. In 2009 Indian Premier League who got the title of Player of the series?",
+        "ans":"Adam Gilchrist",
+        "options":["Adam Gilchrist","Sachin Tendulkar","Robin Uthappa","Shane Watson"]
+    },
+
+    {
+        "queno":"2",
+        "que":"Q2. Which team won the IPL 2009?",
+        "ans":"Decan Chargers",
+        "options":[ "Decan Chargers", "Chennai Super Kings", "Kolkata Knite Riders", "Delhi Daredevils" ]
+    },
+
+    {
+        "queno":"3",
+        "que":"Q3. Which player scored most runs in IPL 2009?",
+        "ans":"Matthew Hayden",
+        "options":[ "Sanath Jaysuriya", "Shachin Tendulkar", "Matthew Hayden", "Virendar Sehwag" ]
+    },
+
+    {
+        "queno":"4",
+        "que":"Q4. Which cricketer has bowled the most number of dot balls in the IPL?",
+        "ans":"Praveen Kumar",
+        "options":["Praveen Kumar","Lasith Malinga","Harbhajan Singh","Sunil Narine"]
+    },
+
+    {
+        "queno":"5",
+        "que":"Q5. Which company replaced DLF as the new title sponsor in IPL 2013?",
+        "ans":"PepsiCo",
+        "options":["PepsiCo","Hindustan Unilever","Nokia","Patanjali"]
+    },
+
+    {
+        "queno":"6",
+        "que":"Q6. Which International star performed in the opening ceremony of IPL 2013?",
+        "ans":"Pitbul",
+        "options":[" Jennifer Lopez","Akon","Pitbul","None of these"]
+    },
+
+    {
+        "queno":"7",
+        "que":"Q7. Which team won the 2014 Indian Premier League tournament?",
+        "ans":"Chennai Super kings",
+        "options":["Chennai Super kings","Kolkata Knite Riders","Decan Chargers","Royal Challengers Bangalore"]
+    },
+
+    {
+        "queno":"8",
+        "que":"Q8. In 2009 Indian Premier League who got the title of Player of the series?",
+        "ans":"Adam Gilchrist",
+        "options":["Adam Gilchrist","Sachin Tendulkar","Robin Uthappa","Shane Watson"]
+    },
+
+    {
+        "queno":"9",
+        "que":"Q9. Who hit the first century of IPL 2012?",
+        "ans":"Ajinkya Rahane",
+        "options":["Adam Gilcrhist","Ajinkya Rahane","Viral Kohli","Ambati Raydu"]
+    },
+
+    {
+        "queno":"10",
+        "que":"Q10. Who holds the infamous record of most number of ducks in IPL 2012?",
+        "ans":"Manish Pandey",
+        "options":["Manish Pandey","Munaf Patel","Morne Morkel","None of these"]
+    },
+
+    {
+        "queno":"11",
+        "que":"Q11. Who hit the longest six in fifth edition of IPL?",
+        "ans":"MS Dhoni",
+        "options":["Chrish Gayle","Yusuf Pathan","MS Dhoni","Ajinkiya Rahane"]
+    },
+
+    {
+        "queno":"12",
+        "que":"Q12. Which team won the IPL 2013?",
+        "ans":"Mumbai Indians",
+        "options":["Mumbai Indians","Kolkata Knite Riders","Royal Challengers Bangalore","Delhi Daredevils"]
+    },
+
+    {
+        "queno":"13",
+        "que":"Q13. In IPL 2010, who was the most Fan-Friendly Cricketer?",
+        "ans":"Adam Gilchrist",
+        "options":["Adam Gilchrist","Virat Kohli","Rohit Sharma","Lasith Malinga"]
+    },
+
+    {
+        "queno":"14",
+        "que":"Q14. In IPL 2010, who gave the best Debut Performance?",
+        "ans":"Kieron Pollard",
+        "options":["Kieron Pollard","Yusuf Pathan","Praveen Tambe","Ambati Rayudu"]
+    },
+
+    {
+        "queno":"15",
+        "que":"Q15. Which cricketer has taken most catches in ODI cricket?",
+        "ans":"Mahela Jayawardhene",
+        "options":["Ricky Ponting","Mahela Jayawardhene","Jacques Kallis","Mark Waugh"]
+    },
+
+    {
+        "queno":"16",
+        "que":"Q16. Which cricketer had scored fastest century in ODI cricket?",
+        "ans":"AB de Villers",
+        "options":["Vivian Richards","Corey Anderson","Shahid Afridi","AB de Villers"]
+    },
+
+    {
+        "queno":"17",
+        "que":"Q17. Which cricketer had scored most centuries in first-class cricket?",
+        "ans":"Jack Hobbs",
+        "options":["Lane Hutton","Wally Hammond","Jack Hobbs","Sachin Tendulkar"]
+    },
+
+    {
+        "queno":"18",
+        "que":"Q18. Which cricketer had scored highest individual score in ODI cricket?",
+        "ans":"Rohit Sharma",
+        "options":["Virendar Sehwag","Chris Gayle","Martin Guptil","Rohit Sharma"]
+    },
+
+    {
+        "queno":"19",
+        "que":"Q19. Which cricketer had scored highest individual score in first-class cricket?",
+        "ans":"Brian Lara",
+        "options":["Don Bradman","Brian Lara","Lane Hutton","Gary Sobers"]
+    },
+
+    {
+        "queno":"20",
+        "que":"Q20. Which cricketers have recorded more than 100 sixes in Test cricket?",
+        "ans":"Brendon McCullum and Adam Gilcrhist",
+        "options":["Brendon McCullum and Crish Cranes","Brendon McCullum and Jacques Kallis","Brendon McCullum and Cris Gayle","Brendon McCullum and Adam Gilcrhist"]
+    }
+]
+

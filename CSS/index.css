@@ -1,0 +1,106 @@
+body{
+    background-image:url("../Images/index_background.jpg");
+    background-size:cover;
+}
+img{
+    margin-left: 60px;
+    float: left;
+    width: 100px;
+}
+.container{
+    border: 1px solid rgb(30, 95, 155);
+    width: 40%;
+    height: 25.1%;
+    margin-left: 35%;
+    margin-top: 5%;
+    padding-left:10px;
+    padding-right:10px;
+    padding-bottom:10px;
+    border-radius: 3px;
+    border: none;
+}
+#headings{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: inline-block;
+    margin-left: 18%;
+    font-weight: bold;
+    margin-top: 30px;
+    font-size:40px;
+    color:white;
+}
+#user-login{
+    padding-top: 10px;
+    padding-left:10px ;
+    margin-left: 110px;
+    width: 618.5px;
+    height: 30px;
+    display: inline-block;
+    color:white;
+    background-color:rgb(30, 95, 155);
+    margin-bottom:60px ;
+    border-radius: 5px;
+    background-color: transparent;
+    font-size: 60px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+#username
+{
+    border-bottom: solid 2px rgb(192, 191, 191);
+    width: 300px;
+    height: 32px;
+    margin-bottom: 50px;
+    margin-left: 15px;
+    margin-top: 10px;
+    border-radius: 2px;
+    border-top:none;
+    border-left:none;
+    border-right:none;
+    font-size: 20px;
+    color:white;
+    background-color: transparent;
+}
+#password
+{
+    width: 300px;
+    height: 32px;
+    border-bottom: solid 2px rgb(192, 191, 191);
+    border-radius: 2px;
+    margin-left: 15px;
+    margin-top: 10px;
+    border-top:none;
+    border-left:none;
+    border-right:none;
+    font-size: 20px;
+    margin-bottom: 60px;
+    background-color: transparent;
+}
+#user-icon{
+    display:inline-block ;
+    width: 50px;
+    margin-bottom: 20px;
+    border-radius: 2px;
+    margin-left:0px;
+    background-color: transparent;
+
+}
+#pass-icon{
+    width: 50px;
+    border-radius: 2px;
+    margin-bottom: 17px;
+    margin-left:0px;
+    background-color: transparent;
+}
+#submit{
+    width: 300px;
+    height: 35px;
+    color: white;
+    background-color: rgb(58, 158, 58);
+    border-radius:3px;
+    border: none;
+    font-size: 20px;
+    margin-left: 55px;
+    border-radius: 15px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
